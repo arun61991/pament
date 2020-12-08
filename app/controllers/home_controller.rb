@@ -1,4 +1,4 @@
 class HomeController < ApplicationController
-  def payment
+  def index
   end
 end
